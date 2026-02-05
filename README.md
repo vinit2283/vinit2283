@@ -39,8 +39,7 @@
 
 ![Nodejs](https://img.shields.io/badge/Node.js-331932?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![React](https://img.shields.io/badge/React-F05032?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Docker](https://img.shields.io/docker/image-size/:user/:repo)
-
+Docker
 ### 💻 Database
 
 ![SQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)&nbsp;
