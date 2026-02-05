@@ -34,26 +34,24 @@
 ![Python](https://img.shields.io/badge/Python-59666C?style=for-the-badge&logo=python&logoColor=306998)
 ![JAVA](https://img.shields.io/badge/Java-193D6C?style=for-the-badge&logo=java&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-9769AD?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
-![SQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)&nbsp;
-![PHP](https://img.shields.io/badge/PHP-00096C?style=for-the-badge&logo=php&logoColor=white)&nbsp;
-![HTML5](https://img.shields.io/badge/HTML5-CB3837?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-F05032?style=for-the-badge&logo=css3&logoColor=white)
 
 ### 💻 Libraries & Framework
 
-![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![Nodejs](https://img.shields.io/badge/Node.js-331932?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![React](https://img.shields.io/badge/React-F05032?style=for-the-badge&logo=react&logoColor=61DAFB)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 
+![Docker]([https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white](https://www.techwithkunal.com/blog/getting-started-with-docker))
+
+### 💻 Database
+
+![SQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)&nbsp;
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 
 ### 🧑🏻‍💻 Tools & Platform
 
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)&nbsp;
 ![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)&nbsp;
 ![VS Code](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
-![Xampp](https://img.shields.io/badge/Xampp-F37623?style=for-the-badge&logo=xampp&logoColor=white)
-![Stack_Overflow](https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white)
 
 </div>
 
