@@ -39,8 +39,7 @@
 
 ![Nodejs](https://img.shields.io/badge/Node.js-331932?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![React](https://img.shields.io/badge/React-F05032?style=for-the-badge&logo=react&logoColor=61DAFB)
-
-![Docker]([https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white](https://www.techwithkunal.com/blog/getting-started-with-docker))
+![Docker](https://img.shields.io/docker/image-size/:user/:repo)
 
 ### 💻 Database
 
